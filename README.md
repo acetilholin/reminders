@@ -1,29 +1,10 @@
-# reminders
+# reminders 
+<br>
+This site was built using : 
 
-## Project setup
-```
-npm install
-```
+- [VUE CLI 3](https://cli.vuejs.org/guide/)
+- [VUE Bootstrap](https://bootstrap-vue.js.org/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center">
+  <img src="http://optimizely.github.io/vuejs.org/images/logo.png" width="150" height="150"> 
+</p>
